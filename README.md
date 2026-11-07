@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm Arturo Thomas 👋
+<img src="./a_wide_professional_tech_themed_banner_a_dark_na.png" alt="Arturo Thomas — Technology Leadership | Software Engineering | ERP Solutions" width="100%" />
 
-### Technology Leadership | Software Engineering | ERP Solutions
+</div>
+
+<div align="center">
 
 **IT professional · Enterprise software development · Technology modernization**
 
